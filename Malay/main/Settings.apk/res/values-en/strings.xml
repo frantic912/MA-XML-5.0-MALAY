@@ -777,6 +777,7 @@ To choose which kinds of information to sync within each account, go to Settings
   <string name="dialog_title_font_size">Font size</string>
   <string name="dirac_control">MI Sound</string>
   <string name="dirac_mode_earbuds">Xiaomi earbuds</string>
+  <string name="dirac_mode_general">General</string>
   <string name="dirac_mode_in_ear">Xiaomi in-ear headphones</string>
   <string name="dirac_mode_off">Dirac Off</string>
   <string name="dirac_mode_piston_100">Xiaomi piston headphones</string>
@@ -2589,7 +2590,7 @@ Add a word by touching the Add (+) button"</string>
   <string name="virus_button_clear">Clean up</string>
   <string name="virus_scan">Virus scan</string>
   <string name="virus_scan_app_continue">Continue scan</string>
-  <string name="virus_scan_app_find_risk">% d risks found</string>
+  <string name="virus_scan_app_find_risk">%d risks found. Remove them immediately!</string>
   <string name="virus_scan_app_finish">Scan complete</string>
   <string name="virus_scan_app_force_stop">Scan paused</string>
   <string name="virus_scan_app_is_stop_scan">Stop scan?</string>
