@@ -2,7 +2,7 @@
 <resources>
   <string name="app_name">Pengawal</string>
   <string name="bl_block_info" formatted="false">Blocked: Number %d, details %d</string>
-  <string name="bl_no_blacklist">Blacklist empty</string>
+  <string name="bl_no_blacklist">Senaraihitam kosong</string>
   <string name="bl_no_block_call">All blocked calls will be logged here</string>
   <string name="bl_no_block_sms">All blocked messages will be logged here</string>
   <string name="dlg_add_blacklist">Add number to blacklist?</string>
