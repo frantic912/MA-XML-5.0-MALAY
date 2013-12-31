@@ -1,5 +1,39 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="enable_sync">Enable sync</string>
+  <string name="enable_sync_dspt">Sync is off</string>
+  <string name="micloud_account_details">Account details</string>
+  <string name="micloud_app_data">MiCloud app backups</string>
+  <string name="micloud_data_loading">Loading...</string>
+  <string name="micloud_full_influence_dspt">"All photos, videos, notes and apps will be backed up to MiCloud.
+
+If you lose or damage your phone, your data will still be safe.
+
+When your MiCloud account is full, your old data won't be removed. However, any new content you add (e.g. photos, videos, notes or  apps) won't be backed up.
+
+To solve this, you can either clean out old files, or purchase additional storage space."</string>
+  <string name="micloud_gallery_image">MiCloud images</string>
+  <string name="micloud_gallery_video">MiCloud videos</string>
+  <string name="micloud_none">None</string>
+  <string name="micloud_space_full_influence">What happens if I run out of space?</string>
+  <string name="micloud_storage_space">MiCloud storage space</string>
+  <string name="micloud_title_dspt" formatted="false">"Total space %s
+ used %s | left %s"</string>
+  <string name="micloud_title_full_dspt">Storage limit has been reached!</string>
+  <string name="micloud_user_base_info">User info</string>
+  <string name="micloud_user_email">E-mail</string>
+  <string name="micloud_user_id">Xiaomi ID</string>
+  <string name="micloud_user_name">Username</string>
+  <string name="micloud_user_phone">Phone number</string>
+  <string name="micloud_user_space_usage">Space used</string>
+  <string name="micloud_warn_full_msg">You have reached your storage limit!</string>
+  <string name="micloud_warn_full_sum">"New items won't be synced with your MiCloud account."</string>
+  <string name="micloud_warn_full_title">MiCloud storage full!</string>
+  <string name="micloud_warn_low_sum">Storage space is 90% used.</string>
+  <string name="micloud_warn_low_title">Low storage space!</string>
+  <string name="micloud_web_discription_01">Login at http://i.xiaomi.com</string>
+  <string name="micloud_web_discription_02">to store and access your files from anywhere</string>
+  <string name="micloud_full_influence_title">When your MiCloud is full</string>
   <string name="access_denied">Access denied</string>
   <string name="access_token_expired_warning">Weibo account has expired, please reconnect</string>
   <string name="access_token_invalid_warning">Weibo account is invalid, please reconnect</string>
