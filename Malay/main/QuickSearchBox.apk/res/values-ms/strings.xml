@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="app_name">Search</string>
+  <string name="app_name">Pencarian</string>
   <string name="apps_search_activity"/>
-  <string name="clear_shortcuts">Clear shortcuts</string>
-  <string name="clear_shortcuts_agree">Clear shortcuts</string>
-  <string name="clear_shortcuts_disagree">"Don't clear shortcuts"</string>
+  <string name="clear_shortcuts">Padam pintasan</string>
+  <string name="clear_shortcuts_agree">Padam pintasan</string>
+  <string name="clear_shortcuts_disagree">Jangan padam pintasan</string>
   <string name="clear_shortcuts_prompt">"This will clear all shortcuts and recently chosen search suggestions. (To clear your Browser history, use the Browser's settings.)"</string>
   <string name="clear_shortcuts_summary">Clear shortcuts and recently chosen search suggestions</string>
   <string name="corpus_description_apps">Names of installed applications</string>
