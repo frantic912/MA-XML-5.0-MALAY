@@ -1,5 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="gou_piao_event_title">Train reminders %s</string>
+  <string name="gou_piao_item1">Remind me of times for trains</string>
+  <string name="gou_piao_item2">For telephone bookings call 12306</string>
+  <string name="gou_piao_item3">Purchase tickets by calling 12306</string>
+  <string name="gou_piao_website_start_time">Purchase at %s online or by phone</string>
+  <string name="gou_piao_window_start_time">Tickets can be purchased at the station from %s</string>
+  <string name="show_gou_piao">Display spring festival ticket calendar</string>
   <string name="accessibility_add_attendee">Add attendee</string>
   <string name="accessibility_add_reminder">Add reminder</string>
   <string name="accessibility_all_day">All day event</string>
