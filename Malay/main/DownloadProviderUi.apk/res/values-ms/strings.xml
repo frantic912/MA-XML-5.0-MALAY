@@ -1,5 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="xunlei_brand_url">http://mobile.xunlei.com</string> 
+  <string name="xunlei_brand">Powered by Xunlei</string>
   <string name="all_downloads">All downloads</string>
   <string name="app_downloads">%s downloads</string>
   <string name="app_label">Downloads</string>
