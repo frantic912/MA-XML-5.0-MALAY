@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="yellowpage_navigation_menu_order">My order</string>
   <string name="accessibility_calllog_detail">Call log details</string>
   <string name="account_abnormal_state">Abnormal account information, try to login in again or try again later!</string>
   <string name="account_container_title">From the following account</string>
