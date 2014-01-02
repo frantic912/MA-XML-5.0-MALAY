@@ -83,7 +83,7 @@
   <string name="bookmark_this_page_to_readmodelist">Add this page to Reading List bookmark</string>
   <string name="bookmark_thumbnail_view">Lakaran kenit</string>
   <string name="bookmark_title">Label</string>
-  <string name="bookmark_to_readmodelist_not_saved">&quot;Couldn't save Reading List bookmark.&quot;</string>
+  <string name="bookmark_to_readmodelist_not_saved">"Couldn't save Reading List bookmark."</string>
   <string name="bookmark_to_readmodelist_saved">Saved to Reading List bookmarks.</string>
   <string name="bookmark_url">Url</string>
   <string name="bookmark_url_not_valid">URL ini tidak sah.</string>
@@ -97,12 +97,12 @@
   <string name="bottom_bar_tabs_long_click_up_tip_txt">Swipe up to close</string>
   <string name="browserFrameFileErrorLabel">Masalah fail</string>
   <string name="browserFrameFormResubmitLabel"/>
-  <string name="browserFrameFormResubmitMessage">Halaman yang anda cuba lihat mengandungi data yang telah dihantar (\&quot;POSTDATA\&quot;). Jika anda menghantar semula data, sebarang tindakan yang dilakukan oleh borang pada halaman (seperti membuat carian atau pembelian dalam talian) akan diulang.</string>
+  <string name="browserFrameFormResubmitMessage">Halaman yang anda cuba lihat mengandungi data yang telah dihantar (\"POSTDATA\"). Jika anda menghantar semula data, sebarang tindakan yang dilakukan oleh borang pada halaman (seperti membuat carian atau pembelian dalam talian) akan diulang.</string>
   <string name="browserFrameNetworkErrorLabel">Masalah sambungan</string>
   <string name="browser_bookmarks_page_bookmarks_text">Penanda halaman</string>
   <string name="browser_history">Halaman baru dilawati</string>
   <string name="cancel">Batal</string>
-  <string name="cannot_download">Boleh memuat turun URL \&quot;http\&quot; atau \&quot;https\&quot; sahaja.</string>
+  <string name="cannot_download">Boleh memuat turun URL \"http\" atau \"https\" sahaja.</string>
   <string name="choose_upload">Pilih fail untuk dimuat naik</string>
   <string name="choosertitle_sharevia">Kongsi melalui</string>
   <string name="clear">Padam bersih</string>
@@ -150,7 +150,7 @@
   <string name="defaultBookmarksUpButton">Penanda halaman</string>
   <string name="delete">Delete</string>
   <string name="delete_bookmark">Delete bookmark</string>
-  <string name="delete_bookmark_warning">Padamkan penanda halaman \&quot;%s\&quot;?</string>
+  <string name="delete_bookmark_warning">Padamkan penanda halaman \"%s\"?</string>
   <string name="delete_folder">Padamkan folder</string>
   <string name="delete_multi_bookmarks_alert_title">Are you sure you want to delete %1$s items?</string>
   <string name="dialog_geolocation_reject">Hide location</string>
@@ -212,7 +212,7 @@
   <string name="file_picker">Choose Path</string>
   <string name="file_picker_new_folder">New folder</string>
   <string name="file_picker_sdcard_not_found">SD card not detected, please check if the device is currently mounted or in use</string>
-  <string name="filename_empty_alert_message">&quot;Filename can't be empty&quot;</string>
+  <string name="filename_empty_alert_message">"Filename can't be empty"</string>
   <string name="filename_illegal_alert_message">Filename contains illegal characters, file has been automatically removed.</string>
   <string name="find_on_page">Find on page</string>
   <string name="folder_name">Folder name</string>
@@ -235,7 +235,7 @@
   <string name="geolocation_settings_page_summary_not_allowed">Tapak ini tidak boleh mengakses lokasi anda pada masa ini</string>
   <string name="geolocation_settings_page_title">Padam bersih akses lokasi</string>
   <string name="go_home">Halaman utama</string>
-  <string name="google_bookmarks">&quot;Google: &quot;</string>
+  <string name="google_bookmarks">"Google: "</string>
   <string name="goto_dot">Pergi</string>
   <string name="have_sent_bookmark_to_home_screen">Bookmark sent to home screen</string>
   <string name="history">Sejarah</string>
@@ -291,7 +291,7 @@
   <string name="menu_preferences">Tetapan</string>
   <string name="menu_save_bandwidth_mode_close_toast">Mobile data cap disabled</string>
   <string name="menu_save_bandwidth_mode_first_clicked_positive_btn_txt">OK</string>
-  <string name="menu_save_bandwidth_mode_first_clicked_txt">&quot;Don't use mobile network to preload pages or automatically display images&quot;</string>
+  <string name="menu_save_bandwidth_mode_first_clicked_txt">"Don't use mobile network to preload pages or automatically display images"</string>
   <string name="menu_save_bandwidth_mode_open_toast">Mobile data cap enabled</string>
   <string name="menu_save_snapshot">Simpan untuk pembacaan di luar talian</string>
   <string name="menu_share_url">Kongsi</string>
@@ -312,7 +312,7 @@
   <string name="network_show_wifi_setting_tip_dialog_description">Wi-Fi connection found, would you like to connect?</string>
   <string name="network_show_wifi_setting_tip_dialog_notshow">Save</string>
   <string name="network_show_wifi_setting_tip_dialog_setting_cate_title">Wi-Fi network available</string>
-  <string name="network_show_wifi_setting_tip_dialog_setting_title">&quot;If you're using mobile data to access the Internet, MIUI will notify you if a nearby Wi-Fi connection is available&quot;</string>
+  <string name="network_show_wifi_setting_tip_dialog_setting_title">"If you're using mobile data to access the Internet, MIUI will notify you if a nearby Wi-Fi connection is available"</string>
   <string name="network_show_wifi_setting_tip_dialog_title">Local Wi-Fi connection available</string>
   <string name="new_folder">Folder baru</string>
   <string name="new_incognito_tab">Tab penyamaran baru</string>
@@ -422,7 +422,7 @@
   <string name="pref_gesture_title">Gesture operations</string>
   <string name="pref_image_display_control">Image display control</string>
   <string name="pref_images_preload_dialogtitle">Images preloading...</string>
-  <string name="pref_images_preload_summary">&quot; Allow browser to preload images when supported by server&quot;</string>
+  <string name="pref_images_preload_summary">" Allow browser to preload images when supported by server"</string>
   <string name="pref_images_preload_title">Image preloading</string>
   <string name="pref_images_preload_value_always_summary">Always Allow browser to preload images when supported by server</string>
   <string name="pref_images_preload_value_never_summary">Never Allow browser to preload images</string>
@@ -518,7 +518,7 @@
   <string name="readmode_pay_message">Subsequent chapters require subscription before reading can be enabled</string>
   <string name="readmode_reach_last_page">Last page has been reached</string>
   <string name="readmode_recommend">View recommended</string>
-  <string name="readmode_recommend_message">&quot;You've read all the sections of this book. Please select another&quot;</string>
+  <string name="readmode_recommend_message">"You've read all the sections of this book. Please select another"</string>
   <string name="readmode_refresh">Refresh</string>
   <string name="readmodelist_bookmarks_to_show">Reading List</string>
   <string name="recover">Recover</string>
@@ -574,7 +574,7 @@
   <string name="share_page">Kongsi halaman</string>
   <string name="shortcut_bookmark">Penanda halaman</string>
   <string name="shortcut_bookmark_title">Pilih penanda halaman</string>
-  <string name="sign_in_to">Log masuk ke \&quot;%s2\&quot; %s1</string>
+  <string name="sign_in_to">Log masuk ke \"%s2\" %s1</string>
   <string name="snapshot_failed">Tidak dapat disimpan untuk pembacaan di luar talian.</string>
   <string name="snapshot_go_live">Muatkn siaran lngsng</string>
   <string name="ssl_continue">Teruskan</string>
