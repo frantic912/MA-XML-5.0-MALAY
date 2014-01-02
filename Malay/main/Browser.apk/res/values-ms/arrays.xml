@@ -6,25 +6,25 @@
         <item>bing</item>
     </string-array>
     <string-array name="pref_content_plugins_choices">
-        <item>Always on</item>
-        <item>On demand</item>
-        <item>Off</item>
+        <item>"Sentiasa hidup"</item>
+        <item>"Atas permintaan"</item>
+        <item>"Mati"</item>
     </string-array>
     <string-array name="pref_homepage_choices">
         <item>Browser will open to this page</item>
         <item>Custom</item>
     </string-array>
     <string-array name="pref_text_size_choices">
-        <item>Tiny</item>
-        <item>Small</item>
-        <item>Normal</item>
-        <item>Large</item>
-        <item>Huge</item>
+        <item>"Sangat kecil"</item>
+        <item>"Kecil"</item>
+        <item>"Biasa"</item>
+        <item>"Besar"</item>
+        <item>"Sangat Besar"</item>
     </string-array>
     <string-array name="pref_default_zoom_choices">
-        <item>Small</item>
-        <item>Medium</item>
-        <item>Large</item>
+        <item>"Jauh"</item>
+        <item>"Sederhana"</item>
+        <item>"Dekat"</item>
     </string-array>
     <string-array name="pref_development_ua_choices">
         <item>Android</item>
@@ -35,29 +35,29 @@
         <item>Honeycomb-Xoom</item>
     </string-array>
     <string-array name="pref_default_text_encoding_choices">
-        <item>Latin-1 (ISO-8859-1)</item>
-        <item>Unicode (UTF-8)</item>
-        <item>Chinese (GBK)</item>
-        <item>Chinese (Big5)</item>
-        <item>Japanese (ISO-2022-JP)</item>
-        <item>Japanese (SHIFT_JIS)</item>
-        <item>Japanese (EUC-JP)</item>
-        <item>Korean (EUC-KR)</item>
+        <item>"Latin-1 (ISO-8859-1)"</item>
+        <item>"Unikod (UTF-8)"</item>
+        <item>"Cina (GBK)"</item>
+        <item>"Cina (Big5)"</item>
+        <item>"Jepun (ISO-2022-JP)"</item>
+        <item>"Jepun (Shift_JIS)"</item>
+        <item>"Jepun (EUC-JP)"</item>
+        <item>"Korea (EUC-KR)"</item>
     </string-array>
     <string-array name="pref_data_preload_choices">
-        <item>Never</item>
-        <item>Only on Wi-Fi</item>
-        <item>Always</item>
+        <item>"Jangan sekali-kali"</item>
+        <item>"Hanya di Wi-Fi"</item>
+        <item>"Sentiasa"</item>
     </string-array>
     <string-array name="pref_link_prefetch_choices">
-        <item>Never</item>
-        <item>Only on Wi-Fi</item>
-        <item>Always</item>
+        <item>"Jangan sekali-kali"</item>
+        <item>"Hanya di Wi-Fi"</item>
+        <item>"Sentiasa"</item>
     </string-array>
     <string-array name="pref_video_preload_choices">
-        <item>Never</item>
-        <item>Only on Wi-Fi</item>
-        <item>Always</item>
+        <item>"Jangan sekali-kali"</item>
+        <item>"Hanya di Wi-Fi"</item>
+        <item>"Sentiasa"</item>
     </string-array>
     <string-array name="bookmarks">
         <item>Google</item>
