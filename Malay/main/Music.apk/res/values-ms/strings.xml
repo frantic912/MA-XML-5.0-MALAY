@@ -1,5 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="data_usage_warning">Data usage warning!</string>
+  <string name="data_usage_warning_summary">Using your mobile data connection to stream higher quality music may increase your data usage costs.</string>
+  <string name="enabled">Enabled</string>
+  <string name="expired">Expired</string>
+  <string name="higher_quality_music">High quality music</string>
+  <string name="higher_quality_music_summary">Listen to and download higher quality music</string>
+  <string name="menu_higher_quality_music">Higher quality music (monthly access)</string>
+  <string name="music_quality">Music quality</string>
+  <string name="valid_period">"Valid from: "</string>
+  <string name="vip_bought">"You've already purchased higher quality music access"</string>
+  <string name="vip_expired">Your higher quality music access has expired</string>
+  <string name="vip_rebuy">Renew</string>
+  <string name="vip_recommend_buy">VIP access for 30 days costs 5 MiCredits</string>
+  <string name="vip_recommend_rebuy">Renewing VIP access for 30 days costs 5 MiCredits</string>
   <string name="account_and_synchronization">Account &amp; Sync</string>
   <string name="account_setting">Account settings</string>
   <string name="add">Add</string>
@@ -318,7 +332,6 @@
   <string name="unknown_artist_name">Unknown artist</string>
   <string name="use_local_album">Use saved album art</string>
   <string name="use_local_lyric">Use saved lyrics</string>
-  <string name="vip_recommend_buy">Purchase (RMB 5 for 1 month)</string>
   <string name="vip_recommend_exchange">Use gift code</string>
   <string name="vip_recommend_main_title">Unlimited CD quality (320 kbps)</string>
   <string name="vip_recommend_sub_title">Only 5 RMB per month</string>
