@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-<<<<<<< HEAD
   <string name="access_denied">Akses dinafikan</string>
   <string name="access_token_expired_warning">Akaun Weibo telah tamat tempoh, sila menyambung semula</string>
   <string name="access_token_invalid_warning">Akaun Weibo tidak sah, sila menyambung semula</string>
@@ -53,7 +52,6 @@
   <string name="add_weibo_account">Tambah akaun</string>
   <string name="alert_notif_title_dspt">Sila memulihkan penyegerakan untuk memastikan data sekuriti</string>
   <string name="alert_title_remove_account">Buang akaun</string>
-=======
   <string name="enable_sync">Enable sync</string>
   <string name="enable_sync_dspt">Sync is off</string>
   <string name="micloud_account_details">Account details</string>
@@ -140,7 +138,6 @@ To solve this, you can either clean out old files, or purchase additional storag
   <string name="add_weibo_account">Add Account</string>
   <string name="alert_notif_title_dspt">Please restore synchronization to ensure data security</string>
   <string name="alert_title_remove_account">Delete Account</string>
->>>>>>> 3dad0e8b756f26a8de18760951976a0176f68964
   <string name="app_name">Xiaomi Services Framework</string>
   <string name="available_functionality">Fungsi yang sedia ada</string>
   <string name="bad_authentication">Pengesahan gagal, nama pengguna atau kata laluan yang salah</string>
