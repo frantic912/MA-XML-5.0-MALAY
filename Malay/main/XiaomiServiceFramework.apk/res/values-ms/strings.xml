@@ -86,8 +86,6 @@ To solve this, you can either clean out old files, or purchase additional storag
   <string name="micloud_web_discription_01">Login at http://i.xiaomi.com</string>
   <string name="micloud_web_discription_02">to store and access your files from anywhere</string>
   <string name="micloud_full_influence_title">When your MiCloud is full</string>
-  <string name="account">Account</string>
-  <string name="account_detail">Xiaomi account: %1$s</string>
   <string name="app_name">Xiaomi Services Framework</string>
   <string name="available_functionality">Fungsi yang sedia ada</string>
   <string name="bad_authentication">Pengesahan gagal, nama pengguna atau kata laluan yang salah</string>

@@ -513,7 +513,7 @@ CC: %4$s
   <string name="previous_action">Terdahulu</string>
   <string name="provider_note_live">"Hanya sesetengah \"Plus\" akaun termasuk POP akses dibenarkan program ini untuk bersambung. Jika anda tidak dapat mendaftar masuk dengan alamat e-mel dan kata laluan yang tepat, anda berkemungkinan tidak membayar untuk akaun \"Plus\". Sila membuka pelayar web untuk mendapatkan akses terhadap akaun-akaun  e-mel tersebut."</string>
   <string name="provider_note_t_online">Sebelum penyediaan akaun e-mel ini, sila layari laman web T-Online dan membuat kata laluan untuk mengakses e-mel POP3.</string>
-  <string /name="quick_responses_empty_view">Tiada reaksi sepontan</string>
+  <string name="quick_responses_empty_view">Tiada reaksi sepontan</string>
   <string name="read_action">Tandakan sudah dibaca</string>
   <string name="refresh_action">Imbaskan semula</string>
   <string name="remove_star_action">Nyahbintang</string>
