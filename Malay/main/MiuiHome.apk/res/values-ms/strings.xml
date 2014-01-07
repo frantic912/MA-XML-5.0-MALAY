@@ -15,7 +15,7 @@
   <string name="cancel_btn_label">Batal</string>
   <string name="cant_remove_folder">Tidak dapat membuang pelipat yang tidak kosong</string>
   <string name="cant_remove_retained_app">Tidak dapat memadamkan aplikasi disesuaikan</string>
-  <string name="cant_remove_system_app">Tidak dapat memadamkan aplikasi sistem/string>
+  <string name="cant_remove_system_app">Tidak dapat memadamkan aplikasi sistem</string>
   <string name="chooser_wallpaper">Tetapkan hiasan latar dari</string>
   <string name="confirm_btn_label">OK</string>
   <string name="default_folder_title_game">Permainan</string>
