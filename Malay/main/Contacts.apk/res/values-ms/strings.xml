@@ -1,7 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="accessibility_calllog_detail">Maklumat log panggilan</string>
-  <string name="account_abnormal_state">Maklumat akaun tidak normal, sila cuba sekali lagi atau cuba kemudian!</string>
   <string name="account_container_title">Dari akaun berikut</string>
   <string name="account_default">Telefon</string>
   <string name="account_phone">Telefon-sahaja, tidak-diselaraskan</string>
@@ -10,7 +9,6 @@
   <string name="account_unactivated">Akaun tidak diaktifkan.</string>
   <string name="actionIncomingCall">Panggilan masuk</string>
   <string name="action_menu_overflow_description">Lebih pilihan</string>
-  <string name="activity_not_found_uri">Tiada aplikasi disokong ditemui!</string>
   <string name="activity_title_confirm_add_detail">Tambah pada kenalan</string>
   <string name="activity_title_contacts_filter">Kenalan untuk dipaparkan</string>
   <string name="activity_title_settings">Tetapan</string>
@@ -24,7 +22,6 @@
   <string name="add_new_account">Tambah akaun baru</string>
   <string name="add_new_entry_for_section">Tambah baru</string>
   <string name="add_organization">Tambah organisasi</string>
-  <string name="add_slide_before">Tambah slaid (sebelum)</string>
   <string name="add_to_my_contacts">Tambah kepada kenalan saya</string>
   <string name="add_wait">Tambah tunggu</string>
   <string name="add_xiaomi_account_dialog_btn">Guna akaun Xiaomi</string>
@@ -158,7 +155,7 @@ Jika anda menggunakan servis penyelarasan kenalan, maklumat kenalan didalam clou
   <string name="config_export_file_extension">vcf</string>
   <string name="config_export_file_prefix"/>
   <string name="config_export_file_suffix"/>
-  <string name="config_export_vcard_type">default</string>
+  <string name="config_export_vcard_type">v30_generic</string>
   <string name="config_import_vcard_type">default</string>
   <string name="config_prohibited_phone_number_regexp"/>
   <string name="confirm_delete_contact_all_call_logs">"Adakah anda pasti untuk memadam log panggilan %s?"</string>
@@ -199,7 +196,6 @@ Jika anda menggunakan servis penyelarasan kenalan, maklumat kenalan didalam clou
   <string name="contacts_unavailable_add_account">Log masuk kedalam akaun</string>
   <string name="contacts_unavailable_create_contact">Buat kenalan baru</string>
   <string name="contacts_unavailable_import_contacts">Import kenalan dari fail</string>
-  <string name="context_menu_add_to_browser_favorite">Tambahkan kepada pelayar kegemaran</string>
   <string name="copy_text">Salin ke papan klip</string>
   <string name="createContactShortcutSuccessful">Widget kenalan ditambah kepada paparan utama.</string>
   <string name="create_group_dialog_title">Buat kumpulan baru</string>
@@ -357,7 +353,8 @@ Jika anda menggunakan servis penyelarasan kenalan, maklumat kenalan didalam clou
   <string name="export_to_sim">Eksport kepada kad SIM</string>
   <string name="export_to_sim_title">Mengeksport kepada kad SIM…</string>
   <string name="export_vcard_description">Eksport vCard kedalam simpanan anda</string>
-  <string name="exporting_contact_failed_message">"Data kenalan tidak dieksport. Sebab: \"%s\""</string>
+  <string name="exporting_contact_failed_message">"Data kenalan tidak dieksport. 
+Sebab: \"%s\""</string>
   <string name="exporting_contact_failed_title">"TIdak dapat dieksport"</string>
   <string name="exporting_contact_list_message">Data kenalan anda sedang dieksport kepada: %s.</string>
   <string name="exporting_contact_list_progress" formatted="false">%s daripada %s kenalan</string>
@@ -382,7 +379,6 @@ Jika anda menggunakan servis penyelarasan kenalan, maklumat kenalan didalam clou
   <string name="favoritesFrequentCalled">Kerap dipanggil</string>
   <string name="favoritesFrequentContacted">Kerap dihubungi</string>
   <string name="favorites_list_empty">Tiada kegemaram</string>
-  <string name="forward_from">Kehadapan dari:</string>
   <string name="foundTooManyContacts">Lebih dari %d ditemui.</string>
   <string name="frequency_none">"Jangan ingatkan saya"</string>
   <string name="frequency_three_days">Periksa dan beri peringatan setiap tiga hari</string>
@@ -402,6 +398,7 @@ Jika anda menggunakan servis penyelarasan kenalan, maklumat kenalan didalam clou
   <string name="group_delete_success_toast">Kumpulan berjaya dipadam</string>
   <string name="group_edit_field_hint_text">Nama kumpulan</string>
   <string name="group_member_remove_toast">Kenalan berjaya dibuang dari kumpulan</string>
+  <string name="group_name">My groups</string>
   <string name="group_name_hint">"Nama kumpulan"</string>
   <string name="group_read_only">Tidak dapat disunting dalam peranti ini.</string>
   <string name="group_rename_dialog_title">Namakan semula kumpulan</string>
@@ -493,7 +490,6 @@ Jika anda menggunakan servis penyelarasan kenalan, maklumat kenalan didalam clou
   <string name="local_profile_title">Profail saya</string>
   <string name="local_search_label">Semua kenalan</string>
   <string name="locale_change_in_progress">Senarai kenalan sedang dikemaskini untuk mengikut perubahan bahasa.</string>
-  <string name="login_before_recharging">Anda perlu log masuk sebelum dibenarkan top up.</string>
   <string name="login_ok">Log masuk</string>
   <string name="lunarBirthdayLabelsGroup">Tarikh lahiir Lunar</string>
   <string name="make_primary">Ingat pilihan ini</string>
@@ -537,7 +533,6 @@ Jika anda menggunakan servis penyelarasan kenalan, maklumat kenalan didalam clou
   <string name="menu_new_group_action_bar">Baru</string>
   <string name="menu_not_redirect_calls_to_vm">Panggilan tidak dihantar ke mel suara</string>
   <string name="menu_redirect_calls_to_vm">Menghantar panggilan ke mel suara</string>
-  <string name="menu_refresh">Muat semula</string>
   <string name="menu_removeStar">Keluarkan dari kegemaran</string>
   <string name="menu_search">Carian</string>
   <string name="menu_select_all">Pilih semua</string>
@@ -677,19 +672,15 @@ Untuk menambah kenalan ke senarai kegemaran:
   <string name="postal_postcode">Poskod</string>
   <string name="postal_region">Negeri</string>
   <string name="postal_street">Jalan</string>
-  <string name="pref_forward_title">Hadapan</string>
   <string name="pref_key_photo">Gambar</string>
   <string name="pref_key_photo_word_summary">Auto pilih gambar untuk kenalan tanpa satu.</string>
   <string name="pref_key_photo_word_title">Auto pilih gambar untuk kenalan</string>
   <string name="pref_key_rebuild_t9_index_message">Dapat membetulkan kegagalan carian kenalan</string>
   <string name="pref_key_rebuild_t9_index_title">Membina semula indeks data</string>
+  <string name="pref_key_sim_manage">SIM Management</string>
   <string name="pref_summary_import_from_account">Import kenalan dalam akaun Google dan Exchange ke Akaun Xiaomi saya</string>
   <string name="pref_title_account_import">Import dari akaun</string>
-  <string name="pref_title_card_format">Format berkongsi kad</string>
-  <string name="pref_title_fwd_sender_info">Bawa hadapan Maklumat Pengirim</string>
   <string name="pref_title_import_from_account">Import ke akaun Xiaomi</string>
-  <string name="pref_title_miui_card">Hantar melalui kad MIUI</string>
-  <string name="pref_title_vcard">Hantar melalui vCard</string>
   <string name="preference_auto_ip_summary_disable">Tidak diaktifkan</string>
   <string name="preference_auto_ip_summary_on">"Carrier's IP prefix: %s"</string>
   <string name="preference_auto_ip_title">IP automatik</string>
@@ -731,7 +722,6 @@ Untuk menambah kenalan ke senarai kegemaran:
   <string name="preview_contact_card_title">mengimport kenalan…</string>
   <string name="previous">sebelumnya</string>
   <string name="private_num">Nombor peribadi</string>
-  <string name="processing">Memproses...</string>
   <string name="profile_display_name">Sediakan profil saya</string>
   <string name="profile_name">Profil saya</string>
   <string name="profile_name_photo">I</string>
@@ -777,6 +767,7 @@ Untuk menambah kenalan ke senarai kegemaran:
   <string name="resource_alarm_default">Penggera</string>
   <string name="resource_app_name">Sumber Pelayar</string>
   <string name="resource_apply">Mohon</string>
+  <string name="resource_apply_trial">Try now</string>
   <string name="resource_buy">Beli</string>
   <string name="resource_can_not_selected">%1$s tidak boleh dipilih!</string>
   <string name="resource_category">Kategori</string>
@@ -785,7 +776,6 @@ Untuk menambah kenalan ke senarai kegemaran:
   <string name="resource_comment_3_star">3 Bintang</string>
   <string name="resource_comment_4_star">4 Bintang</string>
   <string name="resource_comment_5_star">5 Bintang</string>
-  <string name="resource_comment_account_need_activitied">Sila aktifkan akaun Xiaomi anda untuk menggunakan ciri ini.</string>
   <string name="resource_comment_all_comments">Semua komen</string>
   <string name="resource_comment_average_score">Purata</string>
   <string name="resource_comment_bad_comments">Negatif</string>
@@ -831,6 +821,7 @@ Untuk menambah kenalan ke senarai kegemaran:
   <string name="resource_detail_update_log_title">Maklumat Terbaru</string>
   <string name="resource_detail_window_title">%1$s details</string>
   <string name="resource_download">Muat turun</string>
+  <string name="resource_download_trial">Free trial</string>
   <string name="resource_downloaded_title">Sumber yang dimuat turun</string>
   <string name="resource_downloading">Memuat turun...</string>
   <string name="resource_exchange">Menebus</string>
@@ -858,6 +849,7 @@ Untuk menambah kenalan ke senarai kegemaran:
   <string name="resource_get_auth_missing">Tema ini tidak dimuat turun dari pasaran rasmi, sila muat turun dari pasaran rasmi.</string>
   <string name="resource_get_auth_retrieving">Mendapatkan semula kebenaran...</string>
   <string name="resource_hint">Alert</string>
+  <string name="resource_import_failed">Import failed</string>
   <string name="resource_import_successful">Muat turun berjaya.</string>
   <string name="resource_importing">Mengimport...</string>
   <string name="resource_list_title">Terkini</string>
@@ -868,6 +860,7 @@ Untuk menambah kenalan ke senarai kegemaran:
   <string name="resource_no_result">Tiada keputusan</string>
   <string name="resource_notification_default">Notifikasi</string>
   <string name="resource_online">Dalam talian %1$s</string>
+  <string name="resource_online">Online %1$s</string>
   <string name="resource_pack_confirm">Anda telah membeli %1$d item, harga belian semasa adalah lebih baik daripada pembelian secara individu untuk barangan tersebut, anda ingin terus?</string>
   <string name="resource_pack_discount_info">%1$s Menyimpan!</string>
   <string name="resource_pack_price_info">%1$s asal</string>
@@ -875,7 +868,7 @@ Untuk menambah kenalan ke senarai kegemaran:
   <string name="resource_present">Hadiah</string>
   <string name="resource_price_format">(%1$s)</string>
   <string name="resource_price_free">Percuma</string>
-  <string name="resource_price_unit">Kredit MI</string>
+  <string name="resource_price_unit">" MiCredits"</string>
   <string name="resource_purchase_getting_order">Mendapatkan semula maklumat pesanan…</string>
   <string name="resource_purchase_verifying_payment">Mengesahkan maklumat pembayaran…</string>
   <string name="resource_purchase_waiting_payment">Menunggu untuk maklumat pembayaran…</string>
@@ -883,6 +876,7 @@ Untuk menambah kenalan ke senarai kegemaran:
   <string name="resource_ranking_free">Percuma</string>
   <string name="resource_ranking_purchase">Berbayar</string>
   <string name="resource_ringtone_default">Nada dering</string>
+  <string name="resource_ringtone_playing_error">playing error</string>
   <string name="resource_ringtone_volume_mute">Kelantangan nada dering disenyapkan</string>
   <string name="resource_save_to_note">Simpan ke nota</string>
   <string name="resource_see_more">Lihat lagi</string>
@@ -894,11 +888,15 @@ Untuk menambah kenalan ke senarai kegemaran:
   <string name="resource_share_subject">Kongsi tema: %1$s</string>
   <string name="resource_share_text">Berikut adalah tema yang mungkin anda suka: %1$s! Link: %2$s</string>
   <string name="resource_share_title">Kongsi</string>
-  <string name="resource_switch_account">Tukar</string>
   <string name="resource_system_title">Sumber sistem</string>
   <string name="resource_tip_select_ringtone">Tiada nada dering dipilih</string>
   <string name="resource_title">Butiran sumber</string>
   <string name="resource_title_select_ringtone">Pilih nada dering</string>
+  <string name="resource_trial_end_message">Trial of %1$s expired. If you like, please purchase it.</string>
+  <string name="resource_trial_end_purchase">Purchase</string>
+  <string name="resource_trial_end_restore">Finish trial</string>
+  <string name="resource_trial_end_title">Trial expired</string>
+  <string name="resource_trial_time">（trial for %1$d minutes）</string>
   <string name="resource_unable_to_access">"Kami minta maaf
 kandungan yang anda cari tidak tersedia di kawasan anda.”</string>
   <string name="resource_unknow_error">Ralat tidak diketahui berlaku.</string>
@@ -906,16 +904,11 @@ kandungan yang anda cari tidak tersedia di kawasan anda.”</string>
   <string name="resource_user_know">OK</string>
   <string name="resource_waiting_download">Menunggu untuk memuat turun...</string>
   <string name="restore_nickname">Simpan semula</string>
-  <string name="restore_to_phone_memory_failed">Gagal untuk memulihkan ke memori telefon!</string>
-  <string name="restored_to_phone_memory">"Dipulihkan ke memori telefon"</string>
-  <string name="ret_sign">" "</string>
+  <string name="ret_sign">"
+"</string>
   <string name="returnCall">Panggilan Kembali</string>
   <string name="ringLabelsGroup">Nada dering</string>
-  <string name="ringtone_volume_mute">Nada dering kini dalam mod senyap.</string>
-  <string name="save">Simpan</string>
   <string name="save_photo_progress">Menyimpan gambar…</string>
-  <string name="save_to_sim_failed">Gagal untuk menyimpan ke SIM! Dipulihkan ke memori telefon </string>
-  <string name="saved_to_sim">Disimpan ke SIM!</string>
   <string name="savingContact">Menyimpan kenalan…</string>
   <string name="savingDisplayGroups">Pilihan paparan menyimpan…</string>
   <string name="scan">Imbas peranti</string>
@@ -924,10 +917,9 @@ kandungan yang anda cari tidak tersedia di kawasan anda.”</string>
   <string name="scanning">Mengimbas untuk peranti…</string>
   <string name="scanning_sdcard_failed_message">Sebab: \"%s\".</string>
   <string name="scanning_sdcard_failed_title">"Storan tidak boleh diimbas"</string>
-  <string name="sdcard_not_mounted_dialog_message">"Kad SD tiada, sila masukkan satu sekarang."</string>
-  <string name="sdcard_not_mounted_dialog_title">Kad SD tidak dikesan</string>
-  <string name="sdcard_status_changed_dialog_message">"Aplikasi kini akan keluar. Sila membuka semula aplikasi untuk muat semula sumber."</string>
-  <string name="sdcard_status_changed_dialog_title">Status kad SD berubah</string>
+  <string name="sdcard_not_mounted_dialog_message">"Kad SD tiada, sila masukkan satu sekarang.
+"</string>
+  <string name="sdcard_not_mounted_dialog_title">Status kad SD berubah</string>
   <string name="searchHint">Cari kenalan</string>
   <string name="search_results_searching">Mencari…</string>
   <string name="search_settings_description">Nama kenalan anda</string>
@@ -947,7 +939,6 @@ kandungan yang anda cari tidak tersedia di kawasan anda.”</string>
   <string name="service_provider">Yellow page</string>
   <string name="set_default">Tetapkan lalai</string>
   <string name="set_photo_failed_msg">Gagal untuk menetapkan avatar</string>
-  <string name="set_smsc_address_title_miui">Set nombor pusat SMS</string>
   <string name="share_error">"Kenalan ini tidak boleh dikongsi."</string>
   <string name="share_via">Kongsi kenalan melalui</string>
   <string name="share_visible_contacts">Kongsi kenalan dapat dilihat</string>
@@ -960,20 +951,22 @@ kandungan yang anda cari tidak tersedia di kawasan anda.”</string>
   <string name="simContacts_empty">Tiada kenalan yang ditemui pada kad SIM.</string>
   <string name="simContacts_emptyLoading">Memuatkan kenalan daripada kad SIM…</string>
   <string name="simContacts_title">Kenalan kad SIM</string>
+  <string name="sim_capacity">View SIM Card Capacity</string>
   <string name="sim_capacity_content" formatted="false">Jumlah kapasiti %d, %d digunakan</string>
-  <string name="sim_card1">SIM 1</string>
-  <string name="sim_card2">SIM 2</string>
-  <string name="sim_card_cloud">%s (Mesej Cloud)</string>
+
   <string name="sim_card_no_free_space_message">Kad SIM anda penuh, tidak boleh mengimport kenalan baru. Sila kosongkan kad SIM dan cuba lagi</string>
   <string name="sim_card_no_free_space_title">SIM penuh!</string>
   <string name="sim_contact_dropdown_menu_deselect_all_miui">Nyahpilih semua</string>
   <string name="sim_contact_dropdown_menu_select_all_miui">Pilih semua</string>
+  <string name="sim_contact_existing">Contact already exists</string>
+  <string name="sim_contact_invalid">Invalid SIM contact</string>
   <string name="sim_contact_search_error">Ralat berlaku apabila mencari kenalan kad SIM</string>
   <string name="sim_contacts">Kenalan SIM</string>
   <string name="sim_error_anr_full">Storan untuk nombor penuh!</string>
   <string name="sim_error_email_full">Storan untuk emel penuh!</string>
   <string name="sim_error_email_too_long">Alamat e-mel terlalu panjang.</string>
   <string name="sim_error_generic_failure">Kegagalan generic SIM.</string>
+  <string name="sim_error_not_ready">Loading SIM contacts…</string>
   <string name="sim_error_number_too_long">Nombor SIM terlalu panjang!</string>
   <string name="sim_error_password_error">Ralat Kata laluan SIM.</string>
   <string name="sim_error_storage_full">Storan SIM penuh!</string>
@@ -1054,12 +1047,15 @@ kandungan yang anda cari tidak tersedia di kawasan anda.”</string>
   <string name="type_missed">Panggilan tak dijawab</string>
   <string name="type_mx_msg">Mesej Cloud</string>
   <string name="type_outgoing">Panggilan keluar</string>
-  <string name="type_vcard">vCard</string>
   <string name="type_voicemail">Mel suara</string>
   <string name="unknown">Tidak diketahui</string>
   <string name="unknown_contact_name">Kenalan tidak diketahui</string>
   <string name="upgrade_in_progress">Senarai kenalan sedang dikemaskini.</string>
-  <string name="upgrade_out_of_memory">"Kenalan sedang dalam proses peningkatan. Proses peningkatan memerlukan kira-kira %s MB storan dalaman. Pilih salah satu daripada pilihan-pilihan berikut:"</string>
+  <string name="upgrade_out_of_memory">"Kenalan sedang dalam proses peningkatan. 
+
+Proses peningkatan memerlukan kira-kira %s MB storan dalaman. 
+
+Pilih salah satu daripada pilihan-pilihan berikut:"</string>
   <string name="upgrade_out_of_memory_retry">Cuba lagi menaik taraf</string>
   <string name="upgrade_out_of_memory_uninstall">Membuang beberapa aplikasi</string>
   <string name="use_photo_as_primary">Gunakan gambar ini</string>
@@ -1097,6 +1093,7 @@ kandungan yang anda cari tidak tersedia di kawasan anda.”</string>
   <string name="wipe_data">Kosongkan data</string>
   <string name="yellowPageNavigationIconLabel">Direktori</string>
   <string name="yellowPageNavigationLabel">Direktori</string>
+  <string name="yellowpage_navigation_menu_order">My order</string>
   <string name="yellowpage_navigation_no_content">Tiada hasil carian</string>
   <string name="yellowpage_navigation_search_city_name_hint">Cari mengikut Bandar</string>
   <string name="yellowpage_navigation_search_hint">Carian</string>
