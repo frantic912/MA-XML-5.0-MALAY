@@ -29,8 +29,6 @@
   <string name="app_name">Pemantauan</string>
   <string name="app_traffic_detail">Trafik (%s)</string>
   <string name="apply_rules_failed">"Gagal untuk memohon tembok api, sila cuba lagi. (%s)"</string>
-
-  
   <string name="apply_rules_failed_known">OK</string>
   <string name="batch_connect_control">Manage App Connections</string>
   <string name="cancel_txt">Cancel</string>

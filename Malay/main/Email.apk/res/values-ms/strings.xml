@@ -134,9 +134,6 @@
   <string name="account_setup_index_other_mails">Akaun mel lain</string>
   <string name="account_setup_index_title">Pertunjuk tetapan akaun</string>
   <string name="account_setup_names_account_name_label">Sila memberi nama kepada akaun ini (terpulang)</string>
-
-
-
   <string name="account_setup_names_headline">Akaun anda sudah bersedia, hanya e-mel sedang dalam pemprosesan</string>
   <string name="account_setup_names_title">Persedian akaun</string>
   <string name="account_setup_names_user_name_empty_error">"Ini ruangan tidak boleh dikosongkan."</string>
@@ -178,7 +175,6 @@
   <string name="account_setup_security_required_title">Kawalan jauh keselamatan pentadbir</string>
   <string name="account_setup_username_password_toast">Sila meniap alamat e-mel and kata laluan ynag sah.</string>
   <string name="account_setup_username_uneditable_error">"Anda tidak boleh menukar nama pengguna akaun. Untuk menambah akaun dengan nama pengguna yang lain, sila tekan Tambahan Akaun."</string>
-
   <string name="account_shortcut_picker_name">Akaun e-mel</string>
   <string name="account_shortcut_picker_title">Sila pilih satu akaun</string>
   <string name="accounts_welcome">Andan boleh menyediakan e-mel dari kebanyakan akaun hanya dalam beberapa langkah.</string>
@@ -281,7 +277,6 @@
   <string name="general_preference_auto_advance_label">Auto-maju</string>
   <string name="general_preference_auto_advance_message_list">Senarai pesanan</string>
   <string name="general_preference_auto_advance_newer">Pesanan terbaru</string>
-
   <string name="general_preference_auto_advance_older">Persanan yang lebih lama</string>
   <string name="general_preference_auto_advance_summary">Sila memilih skrin anda untuk dipamerkan selepas anda menghapus sesatu persanan</string>
   <string name="general_preference_reply_all_label">Balas kesemuanya</string>
@@ -329,7 +324,6 @@
   <string name="manager_do_not_upload">Tidak boleh memuat naik</string>
   <string name="manager_list_switcher_completed_format">Muat naik [%d] telah tamat</string>
   <string name="manager_list_switcher_pending_format">Muat naik [%d] dalam penunggan sementara</string>
-
   <string name="manager_pause">Muat naik berhenti sejenak</string>
   <string name="manager_resume">Muat naik bersambung semula</string>
   <string name="manager_retry">Cuba lagi</string>
@@ -396,7 +390,6 @@ CC: %4$s
   <string name="message_view_attachment_save_action">Simpan</string>
   <string name="message_view_attachment_saved">Telah disimpan</string>
   <string name="message_view_attachment_view_action">Melihat</string>
-
   <string name="message_view_bcc_label">Bcc:</string>
   <string name="message_view_cc_label">Cc:</string>
   <string name="message_view_date_label">Tarikh:</string>

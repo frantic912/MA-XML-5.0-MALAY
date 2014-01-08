@@ -125,7 +125,7 @@
   <string name="permlab_read_settings">Baca Tetapan skrin utama dan Pintasans</string>
   <string name="permlab_uninstall_shortcut">Nyahpasang pintasan</string>
   <string name="permlab_write_settings">Edit Home Settings and Shortcuts</string>
-  <string name="photo_adjust"></string>
+  <string name="photo_adjust"/>
   <string name="photo_confirm">Sahkan</string>
   <string name="photo_load_failed">Gagal untuk memuatkan gambar!</string>
   <string name="pref_cell_layout_size">Jenis susun atur sel</string>

@@ -52,40 +52,6 @@
   <string name="add_weibo_account">Tambah akaun</string>
   <string name="alert_notif_title_dspt">Sila memulihkan penyegerakan untuk memastikan data sekuriti</string>
   <string name="alert_title_remove_account">Buang akaun</string>
-  <string name="enable_sync">Enable sync</string>
-  <string name="enable_sync_dspt">Sync is off</string>
-  <string name="micloud_account_details">Account details</string>
-  <string name="micloud_app_data">MiCloud app backups</string>
-  <string name="micloud_data_loading">Loading...</string>
-  <string name="micloud_full_influence_dspt">"All photos, videos, notes and apps will be backed up to MiCloud.
-
-If you lose or damage your phone, your data will still be safe.
-
-When your MiCloud account is full, your old data won't be removed. However, any new content you add (e.g. photos, videos, notes or  apps) won't be backed up.
-
-To solve this, you can either clean out old files, or purchase additional storage space."</string>
-  <string name="micloud_gallery_image">MiCloud images</string>
-  <string name="micloud_gallery_video">MiCloud videos</string>
-  <string name="micloud_none">None</string>
-  <string name="micloud_space_full_influence">What happens if I run out of space?</string>
-  <string name="micloud_storage_space">MiCloud storage space</string>
-  <string name="micloud_title_dspt" formatted="false">"Total space %s
- used %s | left %s"</string>
-  <string name="micloud_title_full_dspt">Storage limit has been reached!</string>
-  <string name="micloud_user_base_info">User info</string>
-  <string name="micloud_user_email">E-mail</string>
-  <string name="micloud_user_id">Xiaomi ID</string>
-  <string name="micloud_user_name">Username</string>
-  <string name="micloud_user_phone">Phone number</string>
-  <string name="micloud_user_space_usage">Space used</string>
-  <string name="micloud_warn_full_msg">You have reached your storage limit!</string>
-  <string name="micloud_warn_full_sum">"New items won't be synced with your MiCloud account."</string>
-  <string name="micloud_warn_full_title">MiCloud storage full!</string>
-  <string name="micloud_warn_low_sum">Storage space is 90% used.</string>
-  <string name="micloud_warn_low_title">Low storage space!</string>
-  <string name="micloud_web_discription_01">Login at http://i.xiaomi.com</string>
-  <string name="micloud_web_discription_02">to store and access your files from anywhere</string>
-  <string name="micloud_full_influence_title">When your MiCloud is full</string>
   <string name="app_name">Xiaomi Services Framework</string>
   <string name="available_functionality">Fungsi yang sedia ada</string>
   <string name="bad_authentication">Pengesahan gagal, nama pengguna atau kata laluan yang salah</string>
@@ -124,6 +90,8 @@ To solve this, you can either clean out old files, or purchase additional storag
   <string name="enableAll">Membolehkan semua</string>
   <string name="enable_find_device_error">%1$s, gagal untuk memulakan pengesanan peranti</string>
   <string name="enable_micloud">Membolehkan perkhidmatan cloud</string>
+  <string name="enable_sync">Enable sync</string>
+  <string name="enable_sync_dspt">Sync is off</string>
   <string name="error_dup_phone">Telefon ini telah didaftarkan</string>
   <string name="error_invalid_dev_id">Id peranti yang salah</string>
   <string name="error_mili_title">Baki Mi credits yang tidak mencukupi</string>
@@ -173,6 +141,7 @@ To solve this, you can either clean out old files, or purchase additional storag
   <string name="mibi_license_message_span">Perjanjian pengguna Mi Credit</string>
   <string name="mibi_license_title">Perjanjian pengguna Mi Credit</string>
   <string name="micloud_account">Akaun Xiaomit</string>
+  <string name="micloud_account_details">Account details</string>
   <string name="micloud_account_label">Akaun: %1$s</string>
   <string name="micloud_account_name">Akaun Xiaomi</string>
   <string name="micloud_account_not_actived">Akaun belum diaktifkan</string>
@@ -189,8 +158,10 @@ To solve this, you can either clean out old files, or purchase additional storag
   <string name="micloud_activing_account">Mengaktifkan akaun anda...</string>
   <string name="micloud_activing_account_delayed">"Proses ini dijangka boleh siap dalam 30 saat. Pada masa yang sama, anda boleh menikmati kecantikan telefon anda..."</string>
   <string name="micloud_activing_account_failed">Gagal untuk mengaktifkan akaun anda</string>
+  <string name="micloud_app_data">MiCloud app backups</string>
   <string name="micloud_click_email">Klik link dalam e-mel tersebut untuk mengaktifkan akaun Xiaomi anda</string>
   <string name="micloud_click_email_to_valid">Klik link pengaktifan di dalam message yang telah dihantar ke inbox anda </string>
+  <string name="micloud_data_loading">Loading...</string>
   <string name="micloud_delete_account">Buang akaun</string>
   <string name="micloud_dspt">Perkhidmatan Cloud termasuk MiCloud messaging, mobile sync, mencari lokasi peranti dan lain-lain. Anda juga boleh menguruskan data anda atas talian pada bila-bila masa!</string>
   <string name="micloud_email">Alamat e-mel</string>
@@ -200,6 +171,16 @@ To solve this, you can either clean out old files, or purchase additional storag
   <string name="micloud_error_empty_username">Nama pengguna tidak boleh dikosongkan</string>
   <string name="micloud_error_empty_vcode">Memasukan kod pengesahan.</string>
   <string name="micloud_error_illegal_pwd">Kata laluan tidak sah</string>
+  <string name="micloud_full_influence_dspt">"All photos, videos, notes and apps will be backed up to MiCloud.
+
+If you lose or damage your phone, your data will still be safe.
+
+When your MiCloud account is full, your old data won't be removed. However, any new content you add (e.g. photos, videos, notes or  apps) won't be backed up.
+
+To solve this, you can either clean out old files, or purchase additional storage space."</string>
+  <string name="micloud_full_influence_title">When your MiCloud is full</string>
+  <string name="micloud_gallery_image">MiCloud images</string>
+  <string name="micloud_gallery_video">MiCloud videos</string>
   <string name="micloud_input_password_prompt">Input kata laluan</string>
   <string name="micloud_intro_01_part_01">Jimatkan kos SMS</string>
   <string name="micloud_intro_01_part_02">MIUI membolehkan anda menghantar cloud messaging yang percuma melalui internet</string>
@@ -209,16 +190,35 @@ To solve this, you can either clean out old files, or purchase additional storag
   <string name="micloud_intro_03_part_02">Menguruskan data,mencari lokasi, mengunci dan memadamkan peranti anda dengan melayari i.xiaomi.com</string>
   <string name="micloud_is_what">Apakah MiCloud?</string>
   <string name="micloud_more">Maklumat lanjut</string>
+  <string name="micloud_none">None</string>
   <string name="micloud_password_confirm_hint">Sahkan kata laluan</string>
   <string name="micloud_password_error_inconsistent">Kata laluan tidak selaras</string>
   <string name="micloud_password_req_notice">8~16 kata, termasuk nombor, huruf abjad, case sensitive</string>
   <string name="micloud_proceed">Teruskan</string>
   <string name="micloud_reg_new">Membuat akaun baru</string>
   <string name="micloud_resend_active_email">Menghantar e-mel pengaktifan semula</string>
+  <string name="micloud_space_full_influence">What happens if I run out of space?</string>
+  <string name="micloud_storage_space">MiCloud storage space</string>
   <string name="micloud_summary">Login ke akaun Xiaomi untuk sync Kenalan, Galeri album dan fungsi lain.</string>
+  <string name="micloud_title_dspt" formatted="false">"Total space %s
+ used %s | left %s"</string>
+  <string name="micloud_title_full_dspt">Storage limit has been reached!</string>
   <string name="micloud_use_existing">E-mel ini telah dipakai</string>
+  <string name="micloud_user_base_info">User info</string>
+  <string name="micloud_user_email">E-mail</string>
+  <string name="micloud_user_id">Xiaomi ID</string>
+  <string name="micloud_user_name">Username</string>
+  <string name="micloud_user_phone">Phone number</string>
+  <string name="micloud_user_space_usage">Space used</string>
   <string name="micloud_via_int_sms_alert">Satu SMS akan dihantar ke telefon anda dan kadar mesej telco anda akan dicaj. Adakah anda masih nak sambung?</string>
   <string name="micloud_via_sms_alert">Satu SMS akan dihantar untuk mengesahkan telefon nombor anda. Adakah anda masih nak sambung?</string>
+  <string name="micloud_warn_full_msg">You have reached your storage limit!</string>
+  <string name="micloud_warn_full_sum">"New items won't be synced with your MiCloud account."</string>
+  <string name="micloud_warn_full_title">MiCloud storage full!</string>
+  <string name="micloud_warn_low_sum">Storage space is 90% used.</string>
+  <string name="micloud_warn_low_title">Low storage space!</string>
+  <string name="micloud_web_discription_01">Login at http://i.xiaomi.com</string>
+  <string name="micloud_web_discription_02">to store and access your files from anywhere</string>
   <string name="micloud_welcome_skip_login">Melangkau pendaftaran</string>
   <string name="mili_center">Mi Credit</string>
   <string name="msg_denomination_type">Mi Credit</string>
