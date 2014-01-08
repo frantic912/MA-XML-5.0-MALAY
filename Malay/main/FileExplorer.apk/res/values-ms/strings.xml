@@ -237,7 +237,8 @@
   <string name="show_message">Fail tidak boleh dibuka tanpa memuat turun</string>
   <string name="sign_description">mendaftar masuk...</string>
   <string name="signin_error">Gagal menyambung ke rangkaian buat masa kini, sila cuba lagi</string>
-  <string name="signin_success">"Daftar masuk berjaya!Mendapat ruang bebas %1$s"</string>
+  <string name="signin_success">"Daftar masuk berjaya!
+Mendapat ruang bebas %1$s"</string>
   <string name="space_info">Ruang rangkaian:%1$s tersedia ada，jumlah: %2$s</string>
   <string name="space_usage">penggunaan</string>
   <string name="start_cleanup">mula pembersihan</string>
