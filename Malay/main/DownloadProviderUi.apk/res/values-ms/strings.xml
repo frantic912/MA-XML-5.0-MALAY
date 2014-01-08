@@ -5,11 +5,9 @@
   <string name="app_label">Downloads</string>
   <string name="button_sort_by_date">Susun mengikut tarikh</string>
   <string name="button_sort_by_size">Susun mengikut saiz</string>
-  <string name="cancel_download_notice">Hilangkan notis download</string>
   <string name="cancel_running_download">Batal</string>
   <string name="confirm_delete_downloads_message">%d downloads yang dipilih akan disingkirkan!</string>
   <string name="confirm_delete_the_download_item_message">Sila sahkan penyingkiran download!</string>
-  <string name="confirm_disable_download_only_in_wifi_message">Mematikan “Download melalui Wi-Fi sahaja” mungkin akan menjana caj data tambahan. Adakah anda pasti anda ingin mematikannya?</string>
   <string name="delete_download">Padam</string>
   <string name="delete_downloads_records">Padamkan downloads</string>
   <string name="delete_the_downloaded_file">Padamkan fail-fail yang telah download.</string>
@@ -25,7 +23,6 @@
   <string name="dialog_queued_body">Fail ini digilir untuk download kemudian.</string>
   <string name="dialog_title_not_available">Download Gagal</string>
   <string name="dialog_title_queued_body">Fail tidak tersedia</string>
-  <string name="disable_download_only_in_wifi_title">Memadamkan “Download melalui Wi-Fi sahaja”</string>
   <string name="download_complete">Telah Download</string>
   <string name="download_error">Gagal</string>
   <string name="download_error_insufficient_space">Ruang tidak mencukupi</string>
@@ -49,26 +46,21 @@
   <string name="keep_queued_download">Simpan</string>
   <string name="menu_enter_edit_mode">Editor</string>
   <string name="menu_preferences">Aturan</string>
-  <string name="might_lead_to_mobile_charge">"Selepas pembatalan, tiada pemberitahuan download daripada peranti anda. Ini boleh membawa kepada peningkatan caj data trafik."</string>
   <string name="missing_title">Tidak diketahui</string>
   <string name="no_downloads">Tiada downloads.</string>
   <string name="open_download">Buka</string>
-  <string name="pause_download">Berhenti seketika</string>
   <string name="pause_download_when_wifi_disconnected">Download melalui Wi-Fi sahaja</string>
   <string name="paused_by_app">Berhenti seketika secara manual</string>
   <string name="paused_queued_for_wifi">Menunggu sambungan Wi-Fi</string>
   <string name="paused_unknown">Ralat tidak diketahui</string>
   <string name="paused_waiting_for_network">Menunggu sambungan rangkaian</string>
   <string name="paused_waiting_to_retry">Menunggu untuk mencuba semula</string>
-  <string name="prefDefault_max_bytes_limit">1048576</string>
-  <string name="pref_dialog_title_max_bytes_limit">Had saiz fail</string>
   <string name="pref_download_settings_title">Pemberitahuan penggunaan data</string>
   <string name="pref_summary_any_bytes_popup">Sentiasa bergilir apabila menggunakan rangkaian Wi-Fi</string>
   <string name="pref_summary_enable_max_bytes_popup">"Di bawah rangkaian pengendali, pemberitahuan timbul jika saiz fail melebihi had"</string>
   <string name="pref_summary_max_bytes_limit_format">Pemberitahuan timbul jika saiz fail melebihi %s</string>
   <string name="pref_summary_no_limit_popup">Saiz download adalah tidak terhad</string>
   <string name="pref_title_enable_max_bytes_popup">Pemberitahuan data download</string>
-  <string name="pref_title_max_bytes_limit">Had saiz fail</string>
   <string name="preferences_title">Aturan</string>
   <string name="remove_download">Buang</string>
   <string name="restart_download">Restart</string>
@@ -78,4 +70,6 @@
   <string name="select_all">Pilih Semua</string>
   <string name="select_operation_items">Sila pilih item-item</string>
   <string name="selected_count">Pilih %1$d dari %2$d</string>
+  <string name="xunlei_brand">Powered by Xunlei</string>
+  <string name="xunlei_brand_url">http://mobile.xunlei.com</string>
 </resources>
