@@ -860,7 +860,6 @@ Untuk menambah kenalan ke senarai kegemaran:
   <string name="resource_no_result">Tiada keputusan</string>
   <string name="resource_notification_default">Notifikasi</string>
   <string name="resource_online">Dalam talian %1$s</string>
-  <string name="resource_online">Online %1$s</string>
   <string name="resource_pack_confirm">Anda telah membeli %1$d item, harga belian semasa adalah lebih baik daripada pembelian secara individu untuk barangan tersebut, anda ingin terus?</string>
   <string name="resource_pack_discount_info">%1$s Menyimpan!</string>
   <string name="resource_pack_price_info">%1$s asal</string>
