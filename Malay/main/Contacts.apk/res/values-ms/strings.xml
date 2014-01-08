@@ -953,7 +953,6 @@ kandungan yang anda cari tidak tersedia di kawasan anda.”</string>
   <string name="simContacts_title">Kenalan kad SIM</string>
   <string name="sim_capacity">View SIM Card Capacity</string>
   <string name="sim_capacity_content" formatted="false">Jumlah kapasiti %d, %d digunakan</string>
-
   <string name="sim_card_no_free_space_message">Kad SIM anda penuh, tidak boleh mengimport kenalan baru. Sila kosongkan kad SIM dan cuba lagi</string>
   <string name="sim_card_no_free_space_title">SIM penuh!</string>
   <string name="sim_contact_dropdown_menu_deselect_all_miui">Nyahpilih semua</string>
