@@ -65,7 +65,7 @@
   <string name="switch_to_scientific_pad">Tukar kepada saintifik</string>
   <string name="switch_to_standard_pad">Tukar kepada standard</string>
   <string name="tan">tan</string>
-  <string name="tanDesc">tangen</string>
+  <string name="tanDesc">tangent</string>
   <string name="tan_mathematical_value">tan</string>
   <string name="text_copied_toast">Ayat disalin.</string>
 </resources>
