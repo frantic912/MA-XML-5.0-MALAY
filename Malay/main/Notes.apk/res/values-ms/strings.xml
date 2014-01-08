@@ -4,6 +4,7 @@
   <string name="alert_action_edit_anyway">Sambung mengedit</string>
   <string name="alert_edit_action_delete">Buang</string>
   <string name="alert_edit_action_update">Kemaskini</string>
+  <string name="alert_message_delete_folder">Delete folder and its notes?</string>
   <string name="alert_message_delete_folders">Padam %1$s folder yang terpilih?</string>
   <string name="alert_message_delete_folders_notes">Padam %1$s folder dan %2$s nota yang terpilih?</string>
   <string name="alert_message_delete_note">Adakah anda pasti anda ingin memadam nota ini?</string>
@@ -56,6 +57,7 @@
   <string name="menu_rename_folder">Ubah nama folder</string>
   <string name="menu_send_to_desktop">Hantar ke skrin halaman</string>
   <string name="menu_setting">Aturan</string>
+  <string name="menu_share">Share</string>
   <string name="menu_stick">Stick</string>
   <string name="menu_title_select_folder">Pilih folder</string>
   <string name="menu_unstick">Unstick</string>
