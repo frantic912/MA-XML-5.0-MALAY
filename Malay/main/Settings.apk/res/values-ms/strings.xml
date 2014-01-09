@@ -249,7 +249,7 @@
   <string name="battery_info_health_cold">Sejuk</string>
   <string name="battery_info_health_dead">Mati</string>
   <string name="battery_info_health_good">Bagus</string>
-  <string name="battery_info_health_label"Kesihatan bateri:</string>
+  <string name="battery_info_health_label">Kesihatan bateri:</string>
   <string name="battery_info_health_over_voltage">Volt berlebihan</string>
   <string name="battery_info_health_overheat">Tidak diketahui</string>
   <string name="battery_info_health_unspecified_failure">Masalah tidak diketahui</string>
