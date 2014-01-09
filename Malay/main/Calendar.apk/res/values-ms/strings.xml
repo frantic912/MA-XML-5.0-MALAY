@@ -122,7 +122,7 @@
   <string name="menu_preferences">Tetapan</string>
   <string name="menu_select_visible_calendars">Kalendar yang dipaparkan</string>
   <string name="miui_chinese_week_range_double"/>
-  <string name="miui_chinese_week_range_single"/>Acara baru</string>
+  <string name="miui_chinese_week_range_single"/>
   <string name="miui_menu_create_event">Acara baru</string>
   <string name="modify_all">Tukar semua acara dalam siri ini</string>
   <string name="modify_all_following">Tukar acara ini dan semua acara masa hadapan</string>
