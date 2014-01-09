@@ -882,7 +882,7 @@ Switch to the new provider anyway?"</string>
   <string name="roaming_warning">Benarkan perayauan data? Mungkin anda akan dikenakan caj perayauan yang tinggi!</string>
   <string name="rsp_unlock_failed">Permintaan buka kunci Pembekal Perkhidmatan UIM tidak berjaya.</string>
   <string name="rsp_unlock_success">Berjaya membuka kunci Pembekal Perkhidmatan.</string>
-  <string name="ruim_unlock_failed">Pemintaan buka kunci UIM UIM tidak berjaya./string>
+  <string name="ruim_unlock_failed">Pemintaan buka kunci UIM UIM tidak berjaya.</string>
   <string name="ruim_unlock_success">Berjaya membuka kunci UIM UIM.</string>
   <string name="save">Simpan</string>
   <string name="saving_account">Sedang menyimpan akaun...</string>
