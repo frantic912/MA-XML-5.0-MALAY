@@ -7,7 +7,7 @@
   <string name="accessibility_pick_end_time">Masa tamat</string>
   <string name="accessibility_pick_start_date">Tarikh mula</string>
   <string name="accessibility_pick_start_time">Masa mula</string>
-  <string name="accessibility_pick_time_zone">Zone masa</string>
+  <string name="accessibility_pick_time_zone">Zon masa</string>
   <string name="accessibility_reminder_privacy">Privasi</string>
   <string name="accessibility_reminder_showmeas">Tunjuk saya sebagai</string>
   <string name="accessibility_reminder_time">Masa peringatan</string>
@@ -45,7 +45,7 @@
   <string name="birthday_notification_type_term_lunar"/>
   <string name="button_day">D</string>
   <string name="button_month">M</string>
-  <string name="calendar_refresh">Menyegarkan</string>
+  <string name="calendar_refresh">Memuat semula</string>
   <string name="change_response_title">Tukar tindak balas</string>
   <string name="chongsha"/>
   <string name="copy_db">Hantar pangkalan data</string>
@@ -64,7 +64,7 @@
   <string name="default_reminder_mode">Mod peringatan lalai</string>
   <string name="delete_label">Padam</string>
   <string name="delete_recurring_event_title">Padam %s?</string>
-  <string name="delete_this_event_title">Padam acar ini?</string>
+  <string name="delete_this_event_title">Padam acara ini?</string>
   <string name="description_label">Penerangan</string>
   <string name="directory_searching_fmt">Mencari %s...</string>
   <string name="discard_label">Batal</string>
@@ -78,7 +78,7 @@
   <string name="edit_event_label">Butiran</string>
   <string name="edit_event_show_all">Tunjuk semua</string>
   <string name="edit_event_to_label">Masa tamat</string>
-  <string name="edit_label">Sunting</string>
+  <string name="edit_label">Kemaskini</string>
   <string name="email_guests_label">E-mel tetamu</string>
   <string name="email_picker_label">E-mel dengan</string>
   <string name="email_subject_prefix">"Re: "</string>
@@ -87,7 +87,7 @@
   <string name="event_all_day_label">Sepenuh hari</string>
   <string name="event_create">Acara baru</string>
   <string name="event_delete">Padam acara</string>
-  <string name="event_edit">Sunting acara</string>
+  <string name="event_edit">Kemaskini acara</string>
   <string name="event_hide_more">Sembunyi</string>
   <string name="event_info_descrip">"Penerangan: "</string>
   <string name="event_info_organizer">Penganjur:</string>
@@ -113,7 +113,7 @@
   <string name="huangli_good_type"/>
   <string name="jump_date">Biarkan</string>
   <string name="jump_date_full">Langkau ke tarikh</string>
-  <string name="loading">Pemuatan…</string>
+  <string name="loading">Memuatkan…</string>
   <string name="local_calendar_display_name">Kalendar tempatan</string>
   <string name="local_owner_account_name">Akaun tempatan</string>
   <string name="lunar_date">Tarikh lunar</string>
@@ -204,8 +204,8 @@
   <string name="taishen"/>
   <string name="tardis">TARDIS</string>
   <string name="template_announce_item_index">Acara %1$s daripada %2$s.</string>
-  <string name="time_zone">Zone masa</string>
-  <string name="timezone_label">Zone masa</string>
+  <string name="time_zone">Zon masa</string>
+  <string name="timezone_label">Zon masa</string>
   <string name="today">Hari ini</string>
   <string name="today_at_time_fmt">Hari ini pada %s</string>
   <string name="tomorrow">Esok</string>
