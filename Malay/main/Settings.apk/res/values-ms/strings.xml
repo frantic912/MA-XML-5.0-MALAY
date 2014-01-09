@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="about_settings">Tentang Telefon</string>
-  <string name="about_settings_summary"Lihat maklumat Undang-undang, status, versi perisian</string>
+  <string name="about_settings_summary">Lihat maklumat Undang-undang, status, versi perisian</string>
   <string name="ac_enable_title">Kawalan akses</string>
   <string name="ac_privacy_mode_sum">Kawalan akses katalaluan untuk batalkan mod jagaan</string>
   <string name="ac_privacy_mode_title">Bolehkan kata laluan</string>
