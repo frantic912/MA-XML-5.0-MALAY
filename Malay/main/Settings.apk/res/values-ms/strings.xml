@@ -125,7 +125,7 @@
   <string name="apn_auth_type_none">Tiada</string>
   <string name="apn_auth_type_pap">PAP</string>
   <string name="apn_auth_type_pap_chap">PAP atau CHAP</string>
-  <string name="apn_edit">tukarkan 'titik akses'</string>
+  <string name="apn_edit">tukarkan APN</string>
   <string name="apn_general">Umum</string>
   <string name="apn_http_port">Ruangan masuk</string>
   <string name="apn_http_proxy">Proksi</string>
@@ -227,7 +227,7 @@
   <string name="baseband_version">Versi jalur asas</string>
   <string name="battery_action_app_details">Info aplikasi</string>
   <string name="battery_action_app_settings">Tetapan aplikasi</string>
-  <string name="battery_action_bluetooth">Tetapan 'bluetooth'</string>
+  <string name="battery_action_bluetooth">Tetapan bluetooth</string>
   <string name="battery_action_display">Tetapan skrin</string>
   <string name="battery_action_stop">Henti Paksa</string>
   <string name="battery_action_wifi">Tetapan wi-fi</string>
