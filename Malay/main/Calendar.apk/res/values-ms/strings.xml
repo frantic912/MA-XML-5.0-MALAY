@@ -51,7 +51,7 @@
   <string name="copy_db">Hantar pangkalan data</string>
   <string name="copy_email">Salin alamat E-mel</string>
   <string name="copy_number">Salin nombor telefon</string>
-  <string name="create_an_account_desc">"Kalendar berfungsi lebih baik dengan Akaun Google.
+  <string name="create_an_account_descSalin a>"Kalendar berfungsi lebih baik dengan Akaun Google.
 • Mengaksesnya dari mana-mana pelayar web
 • Membuar sandaran acara-acara anda dengan selamat"</string>
   <string name="creating_event">Acara dicipta.</string>
@@ -104,12 +104,6 @@
   <string name="gadget_no_events">Tiada acara kalendar yang akan datang</string>
   <string name="gadget_title">Kalendar</string>
   <string name="goto_today">Hari ini</string>
-  <string name="gou_piao_event_title">Train reminders %s</string>
-  <string name="gou_piao_item1">Remind me of times for trains</string>
-  <string name="gou_piao_item2">For telephone bookings call 12306</string>
-  <string name="gou_piao_item3">Purchase tickets by calling 12306</string>
-  <string name="gou_piao_website_start_time">Purchase at %s online or by phone</string>
-  <string name="gou_piao_window_start_time">Tickets can be purchased at the station from %s</string>
   <string name="hide_controls">Sembunyikan kawalan</string>
   <string name="hint_attendees">Tetamu</string>
   <string name="hint_description">Penerangan</string>
@@ -128,7 +122,7 @@
   <string name="menu_preferences">Tetapan</string>
   <string name="menu_select_visible_calendars">Kalendar yang dipaparkan</string>
   <string name="miui_chinese_week_range_double"/>
-  <string name="miui_chinese_week_range_single">Acara baru</string>
+  <string name="miui_chinese_week_range_single"/>Acara baru</string>
   <string name="miui_menu_create_event">Acara baru</string>
   <string name="modify_all">Tukar semua acara dalam siri ini</string>
   <string name="modify_all_following">Tukar acara ini dan semua acara masa hadapan</string>
@@ -145,6 +139,9 @@
   <string name="no_title_label">(Tiada tajuk)</string>
   <string name="not_synced">Tidak disegerakkan</string>
   <string name="pengzu"/>
+  <string name="prefDefault_alerts_vibrateWhen">Tidak sekalipun</string>
+  <string name="prefDefault_alerts_vibrate_false">Tidak sekalipun</string>
+  <string name="prefDefault_alerts_vibrate_true">Sentiasa</string>
   <string name="prefDialogTitle_vibrateWhen">Getar</string>
   <string name="preferences_about_title">Mengenai</string>
   <string name="preferences_alerts_popup_title">Pemberitahuan pop timbul</string>
@@ -156,6 +153,7 @@
   <string name="preferences_category_general_title">Umum</string>
   <string name="preferences_clear_search_history_summary">"Padamkan semua carian yang telah dilakukan"</string>
   <string name="preferences_clear_search_history_title">Kosongkan sejarah carian</string>
+  <string name="preferences_default_reminder_default">10</string>
   <string name="preferences_default_reminder_dialog">Masa peringatan lalai</string>
   <string name="preferences_default_reminder_title">Masa peringatan lalai</string>
   <string name="preferences_general_title">Penetapan paparan kalendar</string>
@@ -198,7 +196,6 @@
   <string name="show_almanac">Tunjukkan takwim</string>
   <string name="show_controls">Tunjukkan kawalan</string>
   <string name="show_day_view">Tunjukkan hari</string>
-  <string name="show_gou_piao">Display spring festival ticket calendar</string>
   <string name="show_newer_events">Sentuh untuk melihat acara selepas %1$s</string>
   <string name="show_older_events">Sentuh untuk melihat acara sebelum %1$s</string>
   <string name="snooze_all_label">Tunda semua</string>
