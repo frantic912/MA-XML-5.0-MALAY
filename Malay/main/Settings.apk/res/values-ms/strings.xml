@@ -68,7 +68,7 @@
   <string name="act_ms">Catat mesej-mesej</string>
   <string name="act_mute_call">Diamkan panggilan yang tidak diingini</string>
   <string name="act_mute_call_summary">Panggilan masuk daripada nombor yang dihalang tidak akan dipapar tetapi tetap akan dicatatkan</string>
-  <string name="act_mute_ms">Diamkan pemberitahuan/string>
+  <string name="act_mute_ms">Diamkan pemberitahuan</string>
   <string name="act_mute_ms_summary">Pemberitahuan tidak diaktifkan tetapi mesej-mesej masih boleh dilihat</string>
   <string name="action_settings">Tetapan</string>
   <string name="activate_miui_screensaver">Bolehkan Screensaver</string>
