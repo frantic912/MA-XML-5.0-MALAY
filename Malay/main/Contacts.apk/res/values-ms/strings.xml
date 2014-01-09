@@ -14,7 +14,7 @@
   <string name="activity_title_settings">Tetapan</string>
   <string name="addPeopleToGroup">Untuk menambah, sunting pada kumpulan.</string>
   <string name="add_2sec_pause">Tambah jeda 2-saat</string>
-  <string name="add_account">Tambah akau</string>
+  <string name="add_account">Tambah akaun</string>
   <string name="add_blacklist">Tambah pada senaraihitam</string>
   <string name="add_connection_button">Tambah sambungan</string>
   <string name="add_contact_dlg_message_fmt">Tambah \"%s\" pada kenalan?</string>
@@ -27,12 +27,12 @@
   <string name="add_xiaomi_account_dialog_btn">Guna akaun Xiaomi</string>
   <string name="add_xiaomi_account_dialog_msg">Untuk pengalaman terbaik, sila gunakan akaun Xiomi untuk penyelarasan dan sandarkan maklumat kenalan dan uruskan kenalan melalui komputer.</string>
   <string name="add_xiaomi_account_dialog_title">Pilih akaun penyelarasan</string>
-  <string name="aggregation_suggestion_edit_dialog_message">Tukar kepada suntingan kenalan sama-nama? Maklumat yang dimasukkan setakat in akan di salin.</string>
+  <string name="aggregation_suggestion_edit_dialog_message">Tukar kepada suntingan kenalan sama-nama? Maklumat yang dimasukkan setakat ini akan di salin.</string>
   <string name="aggregation_suggestion_edit_dialog_title">Sama nama</string>
   <string name="aggregation_suggestion_join_dialog_message">Gabungkan kenalan terkini dengan kenalan yang dipilih?</string>
   <string name="all_list_empty">Tiada kenalan</string>
   <string name="all_resources">Semua</string>
-  <string name="antispam_mark_my_contribution">Sumbangan saya kepada pengkalan data</string>
+  <string name="antispam_mark_my_contribution">Sumbangan saya kepada pangkalan data</string>
   <string name="antispam_provider_format">Nombor yang ditanda ini telah ditambah oleh %s</string>
   <string name="attach_photo_dialog_title">Gambar Kenalan</string>
   <string name="audio_chat">Berbual Suara</string>
@@ -141,13 +141,13 @@ Jika anda menggunakan servis penyelarasan kenalan, maklumat kenalan didalam clou
   <string name="clearFrequentsConfirmation">"Kosongkan senarai kenalan yang kerap dihubungi didalam aplikasi telefon, dan paksa aplikasi emel untuk mempelajari nama panggilan keutamaan dari mula."</string>
   <string name="clearFrequentsConfirmation_title">Kosongkan senarai kenalan yang kerap dihubungi?</string>
   <string name="clearFrequentsProgress_title">Mengosongkan senarai kenalan yang kerap dihubungi...</string>
-  <string name="clear_default">Kosongkan default</string>
+  <string name="clear_default">Kosongkan lalai</string>
   <string name="clear_digits">Kosongkan nombor telefon</string>
   <string name="click_close">Tekan skrin untuk tutup</string>
   <string name="close_dial_pad">Tutup pad kekunci</string>
   <string name="cloud_antispam_mark">Spam</string>
   <string name="cloud_antispam_title">Kawalan Cloud</string>
-  <string name="composer_failed_to_get_database_infomation">"Maklumat pengkalan data tidak dapat diperolehi."</string>
+  <string name="composer_failed_to_get_database_infomation">"Maklumat pangkalan data tidak dapat diperolehi."</string>
   <string name="composer_has_no_exportable_contact">Tiada kenalan yang dapat dieksport. Jika anda mempunyai kenalan didalam telefon, sesetengah pembekal perkhidmatan mungkin tidak membenarkan kenalan tersebut dieksport kedalam telefon.</string>
   <string name="composer_not_initialized">"Komposer vCard tidak bermula dengan betul."</string>
   <string name="config_export_dir">/mnt/sdcard</string>
@@ -159,11 +159,11 @@ Jika anda menggunakan servis penyelarasan kenalan, maklumat kenalan didalam clou
   <string name="config_import_vcard_type">default</string>
   <string name="config_prohibited_phone_number_regexp"/>
   <string name="confirm_delete_contact_all_call_logs">"Adakah anda pasti untuk memadam log panggilan %s?"</string>
-  <string name="confirm_delete_selected_all_call_logs">"Adakaha anda pasti untuk memadam log panggilan kenalan berikut?"</string>
+  <string name="confirm_delete_selected_all_call_logs">"Adakah anda pasti untuk memadam log panggilan kenalan berikut?"</string>
   <string name="confirm_delete_sim_entry_miui">Pastikan pemadaman kenalan %d yang dipilih didalam kad SIM?</string>
   <string name="confirm_export_message">Senarai kenalan anda akan dieksport ke fail: %s.</string>
   <string name="confirm_export_title">Eksport kenalan?</string>
-  <string name="connections">Connections</string>
+  <string name="connections">Sambungan</string>
   <string name="contactDetailAbout">Perihal</string>
   <string name="contactDetailCalllog">Log panggilan</string>
   <string name="contactDetailUpdates">Updates</string>
@@ -206,7 +206,7 @@ Jika anda menggunakan servis penyelarasan kenalan, maklumat kenalan didalam clou
   <string name="date_picker_label">Ingatkan 3-hari sebelum dan pada hari lahir</string>
   <string name="date_time_set">Tetapkan</string>
   <string name="date_year_toggle">Tambah tahun</string>
-  <string name="default_ringtone">Nada dering default</string>
+  <string name="default_ringtone">Nada dering lalai</string>
   <string name="deleteConfirmation">Kenalan ini akan dipadam.</string>
   <string name="deleteConfirmationDetail">\"%s\" akan dipadamkan.</string>
   <string name="deleteConfirmation_title">Padam</string>
@@ -260,7 +260,7 @@ Jika anda menggunakan servis penyelarasan kenalan, maklumat kenalan didalam clou
   <string name="description_size">Saiz:</string>
   <string name="description_star">kegemaran</string>
   <string name="description_summary">Rumusan:</string>
-  <string name="description_uploadtime">Updated:</string>
+  <string name="description_uploadtime">Dikemaskini:</string>
   <string name="description_version">Versi:</string>
   <string name="description_version_szie">Versi: %1$s Saiz: %2$s</string>
   <string name="description_view_contact">Paparkan kenalan %1$s</string>
@@ -298,7 +298,7 @@ Jika anda menggunakan servis penyelarasan kenalan, maklumat kenalan didalam clou
   <string name="dialer_empty_text_loading">Memuatkan...</string>
   <string name="dialer_empty_text_no_call_log">Tiada panggilan</string>
   <string name="dialer_empty_text_no_search_result">Tiada kenalan ditemui</string>
-  <string name="dialer_returnToInCallScreen">Pulang kepada panggilan</string>
+  <string name="dialer_returnToInCallScreen">Kembali ke panggilan</string>
   <string name="dialer_useDtmfDialpad">Guna sesentuh nada pad kekunci</string>
   <string name="dialog_import">Import kenalan</string>
   <string name="dialog_import_export">Import/eksport kenalan</string>
@@ -325,7 +325,7 @@ Jika anda menggunakan servis penyelarasan kenalan, maklumat kenalan didalam clou
   <string name="display_ungrouped">Semua kenalan lain</string>
   <string name="display_warn_remove_ungrouped">Membuang \"%s\" dari penyelarasan akan turut membuang kenalan yang tidak dikumpulkan.</string>
   <string name="dlg_add_blacklist">Tambah nombor dipilih kedalam senarai hitam?</string>
-  <string name="dlg_remove_blacklist">Buang nombir dipilih daripada senarai hitam?</string>
+  <string name="dlg_remove_blacklist">Buang nombobxcr dipilih daripada senarai hitam?</string>
   <string name="download_failed">Muat turun gagal!</string>
   <string name="download_preview_failed">Gagal untuk memuat pratonton</string>
   <string name="duplicate_group_name">Nama kumpulan telah wujud</string>
@@ -378,7 +378,7 @@ Sebab: \"%s\""</string>
   <string name="fail_to_add_account">Gagal untuk menambah akaun!</string>
   <string name="favoritesFrequentCalled">Kerap dipanggil</string>
   <string name="favoritesFrequentContacted">Kerap dihubungi</string>
-  <string name="favorites_list_empty">Tiada kegemaram</string>
+  <string name="favorites_list_empty">Tiada kegemaran</string>
   <string name="foundTooManyContacts">Lebih dari %d ditemui.</string>
   <string name="frequency_none">"Jangan ingatkan saya"</string>
   <string name="frequency_three_days">Periksa dan beri peringatan setiap tiga hari</string>
@@ -437,8 +437,8 @@ Sebab: \"%s\""</string>
   <string name="import_to_xiaomi_account_confirm">Import</string>
   <string name="import_to_xiaomi_account_progress_finish">Import berjaya!</string>
   <string name="import_to_xiaomi_account_progress_message">Mengimport…</string>
-  <string name="import_to_xiaomi_account_progress_title">Import kenalan kepada akaun Xiaomi</string>
-  <string name="import_to_xiaomi_account_title">Adakah anda mahu mengimport kenalan berikut kepada akaun Xiaomi?</string>
+  <string name="import_to_xiaomi_account_progress_title">Import kenalan ke akaun Xiaomi</string>
+  <string name="import_to_xiaomi_account_title">Adakah anda mahu mengimport kenalan berikut ke akaun Xiaomi?</string>
   <string name="import_vcard_description">Import kenalan dari simpanan</string>
   <string name="import_weibo_dialog_title">Import kenalan Sina weibo</string>
   <string name="import_weibo_error_no_matched_contacts">Berjaya mengemaskini kenalan: tiada kenalan sama</string>
@@ -452,9 +452,9 @@ Sebab: \"%s\""</string>
   <string name="import_weibo_progress_name">%1$s</string>
   <string name="import_weibo_progress_percent">%1$d%%</string>
   <string name="importing_sim_contacts_miui">Mengimport kenalan SIM...</string>
-  <string name="importing_vcard_canceled_title">Mengimport %s dibatalkann</string>
+  <string name="importing_vcard_canceled_title">Mengimport %s dibatalkan</string>
   <string name="importing_vcard_description">Mengimport %s</string>
-  <string name="importing_vcard_finished_title">Selesai mengimporting vCard %s</string>
+  <string name="importing_vcard_finished_title">Selesai mengimport vCard %s</string>
   <string name="insertContactDescription">Buat kenalan</string>
   <string name="insertGroupDescription">Buat kumpulan</string>
   <string name="invalidContactMessage">"Kenalan tidak wujud."</string>
@@ -573,7 +573,7 @@ Sebab: \"%s\""</string>
   <string name="nickname_picker_name_column">Nama kenalan</string>
   <string name="nickname_picker_nickname_column">Gelaran</string>
   <string name="noAccounts">Untuk membuat kumpulan anda perlu akaun.</string>
-  <string name="noContactHelpTextAccountsInfo">Sync Xiaomi, Google, Exchange contacts.</string>
+  <string name="noContactHelpTextAccountsInfo">Segerakan kenalan Xiaomi, Google, Exchange.</string>
   <string name="noContactHelpTextImportXiaomiAccountInfo">Simpan semula data disokong di dalam akaun Xiaomi dan MiTalk</string>
   <string name="noContacts">Tiada kenalan.</string>
   <string name="noContactsHelpText">"Anda tidak mempunyai sebarang kenalan untuk dipaparkan.
@@ -648,7 +648,7 @@ Untuk menambah kenalan ke senarai kegemaran:
   <string name="pick_favorites_contacts_list_title">%1$d kegemaran kenalan keseluruhan</string>
   <string name="pick_favorites_list_title">%1$d kegemaran nombor kenalan keseluruhan</string>
   <string name="pick_new_photo">Pilih gambar baru daripada Galeri</string>
-  <string name="pick_photo">Pilih foto daripada Galeri</string>
+  <string name="pick_photo">Pilih gambar daripada Galeri</string>
   <string name="pick_recent_contacts_list_title">%1$d kenalan baru-baru ini keseluruhan</string>
   <string name="pick_recent_list_title">%1$d nombor kenalan baru-baru ini keseluruhan</string>
   <string name="pickerNewContactHeader">Buat kenalan baru</string>
@@ -677,7 +677,7 @@ Untuk menambah kenalan ke senarai kegemaran:
   <string name="pref_key_photo_word_title">Auto pilih gambar untuk kenalan</string>
   <string name="pref_key_rebuild_t9_index_message">Dapat membetulkan kegagalan carian kenalan</string>
   <string name="pref_key_rebuild_t9_index_title">Membina semula indeks data</string>
-  <string name="pref_key_sim_manage">SIM Management</string>
+  <string name="pref_key_sim_manage">Pengurusan SIM</string>
   <string name="pref_summary_import_from_account">Import kenalan dalam akaun Google dan Exchange ke Akaun Xiaomi saya</string>
   <string name="pref_title_account_import">Import dari akaun</string>
   <string name="pref_title_import_from_account">Import ke akaun Xiaomi</string>
@@ -688,7 +688,7 @@ Untuk menambah kenalan ke senarai kegemaran:
   <string name="preference_contacts_display">Paparan kenalan</string>
   <string name="preference_contacts_filter">Kenalan untuk dipaparkan</string>
   <string name="preference_contacts_more">Lagi tetapan kenalan</string>
-  <string name="preference_dial_pad_touch_tone_default">Default</string>
+  <string name="preference_dial_pad_touch_tone_default">Lalai</string>
   <string name="preference_dial_pad_touch_tone_human">Suara manusia</string>
   <string name="preference_dial_pad_touch_tone_piano">Bunyi piano</string>
   <string name="preference_dial_pad_touch_tone_switch">Nada sentuh dial pad</string>
