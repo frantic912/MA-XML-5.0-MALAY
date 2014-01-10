@@ -325,7 +325,7 @@ Jika anda menggunakan servis penyelarasan kenalan, maklumat kenalan didalam clou
   <string name="display_ungrouped">Semua kenalan lain</string>
   <string name="display_warn_remove_ungrouped">Membuang \"%s\" dari penyelarasan akan turut membuang kenalan yang tidak dikumpulkan.</string>
   <string name="dlg_add_blacklist">Tambah nombor dipilih kedalam senarai hitam?</string>
-  <string name="dlg_remove_blacklist">Buang nombobxcr dipilih daripada senarai hitam?</string>
+  <string name="dlg_remove_blacklist">Buang nombor dipilih daripada senarai hitam?</string>
   <string name="download_failed">Muat turun gagal!</string>
   <string name="download_preview_failed">Gagal untuk memuat pratonton</string>
   <string name="duplicate_group_name">Nama kumpulan telah wujud</string>
